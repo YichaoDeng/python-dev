@@ -1,0 +1,20 @@
+{
+    "Material": {
+        "AcrylicBlurRadius": 2
+    },
+    "Update": {
+        "CheckUpdateAtStartUp": true
+    },
+    "Folders": {
+        "Download": "/Users/yichao/Documents/workspace/github/PyQt-Fluent-Widgets/examples/gallery/app/download",
+        "LocalMusic": []
+    },
+    "MainWindow": {
+        "DpiScale": 1,
+        "Language": "zh_CN"
+    },
+    "QFluentWidgets": {
+        "ThemeColor": "#ffa164aa",
+        "ThemeMode": "Light"
+    }
+}
